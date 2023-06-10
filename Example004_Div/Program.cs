@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+// программа деления одного числа не другое
+double numberA = 10;
+double numberB = 4;
+Console.WriteLine(numberA / numberB);
